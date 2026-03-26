@@ -1,0 +1,7 @@
+{
+  "name": "Landlord2Tenant",
+  "description": "Architectural curation for modern living. A premium rental platform for verified tenants and high-end properties.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
